@@ -6,6 +6,10 @@ body {
   color: purple;
 }
 
+#best {
+  background-color: aqua;
+}
+
 .flashy {
   color: red;
   font-style: italic;
@@ -15,4 +19,9 @@ body {
 img {
   max-width: 200px;
   max-height: 300px;
+}
+
+.address {
+  text-align: center;
+  font-size: 24px;
 }
